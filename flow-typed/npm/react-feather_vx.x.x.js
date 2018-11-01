@@ -1,4 +1,4 @@
-// flow-typed signature: d711506f01c5a4671adce6064114ece3
+// flow-typed signature: 78364395be12e95b85269a35ca48c6aa
 // flow-typed version: <<STUB>>/react-feather_v^1.0.8/flow_v0.66.0
 
 /**
@@ -63,6 +63,10 @@ declare module 'react-feather/dist/icons/anchor' {
 }
 
 declare module 'react-feather/dist/icons/aperture' {
+  declare module.exports: any;
+}
+
+declare module 'react-feather/dist/icons/archive' {
   declare module.exports: any;
 }
 
@@ -443,6 +447,10 @@ declare module 'react-feather/dist/icons/folder-plus' {
 }
 
 declare module 'react-feather/dist/icons/folder' {
+  declare module.exports: any;
+}
+
+declare module 'react-feather/dist/icons/gift' {
   declare module.exports: any;
 }
 
@@ -1058,6 +1066,10 @@ declare module 'react-feather/dist/icons/x' {
   declare module.exports: any;
 }
 
+declare module 'react-feather/dist/icons/youtube' {
+  declare module.exports: any;
+}
+
 declare module 'react-feather/dist/icons/zap-off' {
   declare module.exports: any;
 }
@@ -1119,6 +1131,10 @@ declare module 'react-feather/src/icons/anchor' {
 }
 
 declare module 'react-feather/src/icons/aperture' {
+  declare module.exports: any;
+}
+
+declare module 'react-feather/src/icons/archive' {
   declare module.exports: any;
 }
 
@@ -1499,6 +1515,10 @@ declare module 'react-feather/src/icons/folder-plus' {
 }
 
 declare module 'react-feather/src/icons/folder' {
+  declare module.exports: any;
+}
+
+declare module 'react-feather/src/icons/gift' {
   declare module.exports: any;
 }
 
@@ -2114,6 +2134,10 @@ declare module 'react-feather/src/icons/x' {
   declare module.exports: any;
 }
 
+declare module 'react-feather/src/icons/youtube' {
+  declare module.exports: any;
+}
+
 declare module 'react-feather/src/icons/zap-off' {
   declare module.exports: any;
 }
@@ -2167,6 +2191,9 @@ declare module 'react-feather/dist/icons/anchor.js' {
 }
 declare module 'react-feather/dist/icons/aperture.js' {
   declare module.exports: $Exports<'react-feather/dist/icons/aperture'>;
+}
+declare module 'react-feather/dist/icons/archive.js' {
+  declare module.exports: $Exports<'react-feather/dist/icons/archive'>;
 }
 declare module 'react-feather/dist/icons/arrow-down-circle.js' {
   declare module.exports: $Exports<'react-feather/dist/icons/arrow-down-circle'>;
@@ -2452,6 +2479,9 @@ declare module 'react-feather/dist/icons/folder-plus.js' {
 }
 declare module 'react-feather/dist/icons/folder.js' {
   declare module.exports: $Exports<'react-feather/dist/icons/folder'>;
+}
+declare module 'react-feather/dist/icons/gift.js' {
+  declare module.exports: $Exports<'react-feather/dist/icons/gift'>;
 }
 declare module 'react-feather/dist/icons/git-branch.js' {
   declare module.exports: $Exports<'react-feather/dist/icons/git-branch'>;
@@ -2912,6 +2942,9 @@ declare module 'react-feather/dist/icons/x-square.js' {
 declare module 'react-feather/dist/icons/x.js' {
   declare module.exports: $Exports<'react-feather/dist/icons/x'>;
 }
+declare module 'react-feather/dist/icons/youtube.js' {
+  declare module.exports: $Exports<'react-feather/dist/icons/youtube'>;
+}
 declare module 'react-feather/dist/icons/zap-off.js' {
   declare module.exports: $Exports<'react-feather/dist/icons/zap-off'>;
 }
@@ -2959,6 +2992,9 @@ declare module 'react-feather/src/icons/anchor.js' {
 }
 declare module 'react-feather/src/icons/aperture.js' {
   declare module.exports: $Exports<'react-feather/src/icons/aperture'>;
+}
+declare module 'react-feather/src/icons/archive.js' {
+  declare module.exports: $Exports<'react-feather/src/icons/archive'>;
 }
 declare module 'react-feather/src/icons/arrow-down-circle.js' {
   declare module.exports: $Exports<'react-feather/src/icons/arrow-down-circle'>;
@@ -3244,6 +3280,9 @@ declare module 'react-feather/src/icons/folder-plus.js' {
 }
 declare module 'react-feather/src/icons/folder.js' {
   declare module.exports: $Exports<'react-feather/src/icons/folder'>;
+}
+declare module 'react-feather/src/icons/gift.js' {
+  declare module.exports: $Exports<'react-feather/src/icons/gift'>;
 }
 declare module 'react-feather/src/icons/git-branch.js' {
   declare module.exports: $Exports<'react-feather/src/icons/git-branch'>;
@@ -3703,6 +3742,9 @@ declare module 'react-feather/src/icons/x-square.js' {
 }
 declare module 'react-feather/src/icons/x.js' {
   declare module.exports: $Exports<'react-feather/src/icons/x'>;
+}
+declare module 'react-feather/src/icons/youtube.js' {
+  declare module.exports: $Exports<'react-feather/src/icons/youtube'>;
 }
 declare module 'react-feather/src/icons/zap-off.js' {
   declare module.exports: $Exports<'react-feather/src/icons/zap-off'>;

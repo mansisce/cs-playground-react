@@ -1,4 +1,4 @@
-// flow-typed signature: 8c3b7d581673bf9ca19d3bbb710754f6
+// flow-typed signature: 451407927fabdf2fed8930f9b276a9d9
 // flow-typed version: <<STUB>>/jshint_v^2.9.5/flow_v0.66.0
 
 /**
@@ -23,6 +23,10 @@ declare module 'jshint' {
  * needed.
  */
 declare module 'jshint/data/ascii-identifier-data' {
+  declare module.exports: any;
+}
+
+declare module 'jshint/data/es5-identifier-names' {
   declare module.exports: any;
 }
 
@@ -113,6 +117,9 @@ declare module 'jshint/src/vars' {
 // Filename aliases
 declare module 'jshint/data/ascii-identifier-data.js' {
   declare module.exports: $Exports<'jshint/data/ascii-identifier-data'>;
+}
+declare module 'jshint/data/es5-identifier-names.js' {
+  declare module.exports: $Exports<'jshint/data/es5-identifier-names'>;
 }
 declare module 'jshint/data/non-ascii-identifier-part-only.js' {
   declare module.exports: $Exports<'jshint/data/non-ascii-identifier-part-only'>;
