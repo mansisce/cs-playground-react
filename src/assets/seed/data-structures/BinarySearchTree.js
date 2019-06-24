@@ -126,7 +126,7 @@ class BinarySearchTree {
 			// node only has right child
 			else if (!node.left) {
 				node.value = node.right.value
-				node.left = node.right.right
+				node.left = node.right.left
 				node.right = node.right.right
 			}
 			// node only has left child
